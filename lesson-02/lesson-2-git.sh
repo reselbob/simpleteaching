@@ -53,5 +53,5 @@ gedit id_rsa.pub
 
 #might need this to start the agent
 exec ssh-agent bash
-
+#Ad for general ssh visiblity
 ssh-add
