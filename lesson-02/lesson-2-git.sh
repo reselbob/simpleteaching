@@ -44,7 +44,7 @@ git push -u origin master
 #Using the ssh key method
 
 #Create the key
-ssh key-gen -t rsa -C “user@email.com”
+ssh key-gen -t rsa -C "user@email.com"
 
 gedit id_rsa.pub
 
